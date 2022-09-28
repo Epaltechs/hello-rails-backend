@@ -1,5 +1,5 @@
 # Hello-Rails-Backend
-> This is a hello rails backend built in synergy with [hello-react-frontend](https://github.com/Epaltechs/hello-react-frontend.git)
+> This is a hello rails backend built in synergy with [hello-react-frontend](https://github.com/Epaltechs/hello-react-frontend/pull/1))
 
 ## Built With
 
