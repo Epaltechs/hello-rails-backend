@@ -1,5 +1,5 @@
-# hello-rails-backend
-> This is a hello rails backend built in synergy with [Hello-react-frontend](https://github.com/Epaltechs/hello-react-frontend.git)
+# Hello-Rails-Backend
+> This is a hello rails backend built in synergy with [hello-react-frontend](https://github.com/Epaltechs/hello-react-frontend.git)
 
 ## Built With
 
@@ -11,7 +11,7 @@ To launch the project locally:
 
 ### Step 1:
 Clone this repo locally using git in the command line and the following command
-> https://github.com/Epaltechs/Blog-app.git
+> https://github.com/Epaltechs/hello-rails-backend.git
 Alternatively, you can just download the complete zip file and extract the folder in your directory
 
 ### Step 2:
